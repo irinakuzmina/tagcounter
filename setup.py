@@ -4,14 +4,14 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="tagcounter", # Replace with your own username
+    name="tagcounter",
     version="0.0.1",
     author="Iryna Kuzmina",
     author_email="iryna_kuzmina@epam.com",
     description="Html Tags Counter package",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/irinakuzmina/tagcounter.git",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",

@@ -1,0 +1,6 @@
+README.md
+setup.py
+HtmlCounter.egg-info/PKG-INFO
+HtmlCounter.egg-info/SOURCES.txt
+HtmlCounter.egg-info/dependency_links.txt
+HtmlCounter.egg-info/top_level.txt
